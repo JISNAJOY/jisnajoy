@@ -101,7 +101,10 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
  
 💼 LinkedIn: https://www.linkedin.com/in/jisnajoy/
 📧 Email: jisna995@gmail.com
+🔗 GitHub: https://github.com/JISNAJOY/
 
 ---
+
+⭐ **"Code. Learn. Improve. Repeat."**
 
 
