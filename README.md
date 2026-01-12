@@ -100,7 +100,9 @@ Form request validation
 Authorization and protected routes
 Blade components with Tailwind CSS
 
-🧩 Tech: Laravel, PHP, MySQL, Blade, Tailwind CSS
+🧩Tech: Laravel, PHP, MySQL, Blade, CSS
+
+
 ---
 
 ### 🧩 Additional Work
