@@ -89,6 +89,20 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 ---
 
+####📝 [Laravel Task Manager](https://github.com/JISNAJOY/task-manager)
+
+A clean Laravel-based task management application built to practice core Laravel concepts.
+
+Highlights:
+User authentication using Laravel Breeze
+Task CRUD (create, update, delete) with user ownership
+Form request validation
+Authorization and protected routes
+Blade components with Tailwind CSS
+
+🧩 Tech: Laravel, PHP, MySQL, Blade, Tailwind CSS
+---
+
 ### 🧩 Additional Work
 
 - 🧠 Developed **automation tools** for internal security monitoring (Python & PowerShell) at IAV GmbH  
