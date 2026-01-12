@@ -91,7 +91,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 ####📝 [Laravel Task Manager](https://github.com/JISNAJOY/laravel-todo-app)
 
-A clean Laravel-based task management application built to practice core Laravel concepts.
+A clean Laravel-based Todo application built to practice core Laravel concepts.
 
 Highlights:
 User authentication using Laravel Breeze
