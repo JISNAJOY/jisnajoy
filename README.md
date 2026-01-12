@@ -9,7 +9,7 @@
 I'm a passionate **Software Developer** with hands-on experience in **backend development**, **automation scripting**, and **IT security**.  
 Currently based in **Cottbus, Germany**, I focus on building efficient, secure, and scalable backend systems.
 
-- 🧩 Experienced in **Python (Flask)**, **PHP**, **SQL**, **PowerShell**, and **Docker**
+- 🧩 Experienced in **Python (Flask)**, **PHP**, **SQL**, **PowerShell**,**Laravel** and **Docker**
 - 🧠 Strong interest in **security**, **backend APIs**, and **automation tools**
 - 🌍 Open to full-time developer roles in Germany / EU
 - 💬 Ask me about **REST APIs**, **automation scripts**, or **backend architecture**
