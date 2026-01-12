@@ -89,7 +89,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 ---
 
-####📝 [Laravel Task Manager](https://github.com/JISNAJOY/task-manager)
+####📝 [Laravel Task Manager](https://github.com/JISNAJOY/laravel-todo-app)
 
 A clean Laravel-based task management application built to practice core Laravel concepts.
 
