@@ -22,7 +22,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 `Python` `PHP` `SQL` `JavaScript` `HTML` `CSS` `PowerShell`
 
 **Frameworks & Tools:**  
-`Flask` `Symfony` `SQLAlchemy` `Marshmallow` `Bootstrap 5` `Docker` `pytest`
+`Flask` `Symfony` `Laravel` `SQLAlchemy` `Marshmallow` `Bootstrap 5` `Docker` `pytest`
 
 **Databases:**  
 `MySQL` `SQLite` `PostgreSQL`
@@ -89,18 +89,18 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 ---
 
-📝 [Laravel Todo application](https://github.com/JISNAJOY/laravel-todo-app)
+#### 📝 [Laravel Todo application](https://github.com/JISNAJOY/laravel-todo-app)
 
-A clean Laravel-based Todo application built to practice core Laravel concepts.
+> A clean Laravel-based Todo application built to practice core Laravel concepts.
 
-Highlights:
-User authentication using Laravel Breeze
-Task CRUD (create, update, delete) with user ownership
-Form request validation
-Authorization and protected routes
-Blade components with Tailwind CSS
+**Highlights:**
+- User authentication using Laravel Breeze
+- Task CRUD (create, update, delete) with user ownership
+- Form request validation
+- Authorization and protected routes
+- Blade components with Tailwind CSS
 
-🧩Tech: Laravel, PHP, MySQL, Blade, CSS
+🧩*Tech:* Laravel, PHP, MySQL, Blade, CSS
 
 
 ---
