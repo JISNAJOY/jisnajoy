@@ -91,16 +91,20 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 #### 📝 [Laravel Todo application](https://github.com/JISNAJOY/laravel-todo-app)
 
-> A clean Laravel-based Todo application built to practice core Laravel concepts.
+> A clean Laravel-based Todo application built to practice core Laravel concepts, with both web UI and API functionality.
 
 **Highlights:**
 - User authentication using Laravel Breeze
 - Task CRUD (create, update, delete) with user ownership
-- Form request validation
-- Authorization and protected routes
-- Blade components with Tailwind CSS
+- Task completion checkbox to mark tasks as done
+- Form request validation for safe data handling
+- Authorization and protected routes using policies
+- Pagination to manage task lists efficiently
+- API routes with Laravel Sanctum for token-based authentication
+- Blade components with Tailwind CSS for clean UI
+- Separation of Web and API routes to prevent route collisions
 
-🧩*Tech:* Laravel, PHP, MySQL, Blade, CSS
+🧩*Tech:* Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Sanctum
 
 
 ---
