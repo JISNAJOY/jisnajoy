@@ -13,6 +13,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 - 🧠 Strong interest in **security**, **backend APIs**, and **automation tools**
 - 🌍 Open to full-time developer roles in Germany / EU
 - 💬 Ask me about **REST APIs**, **automation scripts**, or **backend architecture**
+- 🎨 Built a **React frontend** consuming a Laravel REST API (Todo application)
 
 ---
 
@@ -22,7 +23,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 `Python` `PHP` `SQL` `JavaScript` `HTML` `CSS` `PowerShell`
 
 **Frameworks & Tools:**  
-`Flask` `Symfony` `Laravel` `SQLAlchemy` `Marshmallow` `Bootstrap 5` `Docker` `pytest`
+`Flask` `Symfony` `Laravel` `SQLAlchemy` `Marshmallow` `Bootstrap 5` `Docker` `pytest` `React` 
 
 **Databases:**  
 `MySQL` `SQLite` `PostgreSQL`
@@ -33,6 +34,42 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 ---
 
 ### 🚀 Featured Projects
+
+#### 📝 [Laravel Todo application](https://github.com/JISNAJOY/laravel-todo-app)
+
+> A clean Laravel-based Todo application built to practice core Laravel concepts, with both web UI and API functionality.
+
+**Highlights:**
+- User authentication using Laravel Breeze
+- Task CRUD (create, update, delete) with user ownership
+- Task completion checkbox to mark tasks as done
+- Form request validation for safe data handling
+- Authorization and protected routes using policies
+- Pagination to manage task lists efficiently
+- API routes with Laravel Sanctum for token-based authentication
+- Blade components with Tailwind CSS for clean UI
+- Separation of Web and API routes to prevent route collisions
+
+🧩*Tech:* Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Sanctum
+
+Includes a separate React frontend [Todo Frontend Application (React)](https://github.com/JISNAJOY/react-todo-frontend) consuming this API.
+
+---
+#### 🛒 [Todo Frontend Application (React)](https://github.com/JISNAJOY/react-todo-frontend)
+> A modern **React-based frontend** for the Laravel Todo API, demonstrating frontend–backend integration, authentication handling, and clean UI design.
+
+**Highlights:**
+- React UI consuming Laravel REST API 
+- Token-based authentication (Laravel Sanctum)
+- Task CRUD operations 
+- Edit task in popup modal with prefilled data  
+- Task completion toggle
+- Axios-based API integration
+- Clean component-based architecture  
+
+🧩 *Tech:* React, JavaScript, Axios, CSS, Vite
+
+---
 
 #### 🛒 [E-Commerce Backend API](https://github.com/JISNAJOY/ecommerce-mini-platform)
 > A professional **Flask-based E-Commerce backend** with clean architecture, JWT authentication, Docker integration, and unit tests.
@@ -89,25 +126,6 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 
 ---
 
-#### 📝 [Laravel Todo application](https://github.com/JISNAJOY/laravel-todo-app)
-
-> A clean Laravel-based Todo application built to practice core Laravel concepts, with both web UI and API functionality.
-
-**Highlights:**
-- User authentication using Laravel Breeze
-- Task CRUD (create, update, delete) with user ownership
-- Task completion checkbox to mark tasks as done
-- Form request validation for safe data handling
-- Authorization and protected routes using policies
-- Pagination to manage task lists efficiently
-- API routes with Laravel Sanctum for token-based authentication
-- Blade components with Tailwind CSS for clean UI
-- Separation of Web and API routes to prevent route collisions
-
-🧩*Tech:* Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Sanctum
-
-
----
 
 ### 🧩 Additional Work
 
