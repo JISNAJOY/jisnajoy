@@ -6,14 +6,16 @@
 
 ### 🧠 About Me
 
-I'm a passionate **Software Developer** with hands-on experience in **backend development**, **automation scripting**, and **IT security**.  
+I'm a passionate **Software Developer** with hands-on experience in **backend development**, **automation scripting**, and **cloud deployment**.  
 Currently based in **Cottbus, Germany**, I focus on building efficient, secure, and scalable backend systems.
 
 - 🧩 Experienced in **Python (Flask)**, **PHP**, **SQL**, **PowerShell**,**Laravel** and **Docker**
 - 🧠 Strong interest in **security**, **backend APIs**, and **automation tools**
 - 🌍 Open to full-time developer roles in Germany / EU
 - 💬 Ask me about **REST APIs**, **automation scripts**, or **backend architecture**
-- 🎨 Built a **React frontend** consuming a Laravel REST API (Todo application)
+- 🎨 Built and deployed a **React frontend** consuming a cloud-hosted Laravel REST API (Todo application)
+- ☁️ Deployed full-stack applications using cloud platforms (Render, Vercel) with environment-based configuration
+
 
 ---
 
@@ -29,7 +31,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 `MySQL` `SQLite` `PostgreSQL`
 
 **Other Skills:**  
-`API Design` `Automation` `JWT Authentication` `Git` `CI/CD (GitHub Actions)` `IT Security`
+`API Design` `Automation` `JWT Authentication` `Git` `CI/CD (GitHub Actions)` `Cloud Deployment (Render, Vercel)`
 
 ---
 
@@ -50,6 +52,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 - Blade components with Tailwind CSS for clean UI
 - Separation of Web and API routes to prevent route collisions
 
+☁️ Cloud: Deployed on Render as a production-ready REST API
 🧩*Tech:* Laravel, PHP, MySQL, Blade, Tailwind CSS, Laravel Sanctum
 
 Includes a separate React frontend [Todo Frontend Application (React)](https://github.com/JISNAJOY/react-todo-frontend) consuming this API.
@@ -67,6 +70,7 @@ Includes a separate React frontend [Todo Frontend Application (React)](https://g
 - Axios-based API integration
 - Clean component-based architecture  
 
+☁️ Cloud: Deployed on Vercel with environment-based API configuration
 🧩 *Tech:* React, JavaScript, Axios, CSS, Vite
 
 ---
