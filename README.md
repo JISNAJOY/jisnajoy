@@ -14,6 +14,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 - 🌍 Open to full-time developer roles in Germany / EU
 - 💬 Ask me about **REST APIs**, **automation scripts**, or **backend architecture**
 - 🎨 Built and deployed a **React frontend** consuming a cloud-hosted Laravel REST API (Todo application)
+- 🤖 Building AI-powered backend systems (LLM integrations & API architecture)  
 - ☁️ Deployed full-stack applications using cloud platforms (Render, Vercel) with environment-based configuration
 
 
@@ -31,7 +32,7 @@ Currently based in **Cottbus, Germany**, I focus on building efficient, secure, 
 `MySQL` `SQLite` `PostgreSQL`
 
 **Other Skills:**  
-`API Design` `Automation` `JWT Authentication` `Git` `CI/CD (GitHub Actions)` `Cloud Deployment (Render, Vercel)`
+`OpenAI API LLM Integration Embeddings REST` `API Design` `Automation` `JWT Authentication` `Git` `CI/CD (GitHub Actions)` `Cloud Deployment (Render, Vercel)`
 
 ---
 
@@ -74,6 +75,20 @@ Includes a separate React frontend [Todo Frontend Application (React)](https://g
 🧩 *Tech:* React, JavaScript, Axios, CSS, Vite
 
 ---
+
+#### 🤖 [LLM Resume Analyzer API](https://github.com/JISNAJOY/AI-Resume-Job-Intelligence-Platform)
+
+An AI-powered FastAPI backend that analyzes resumes against job descriptions using LLM-based skill extraction and semantic similarity scoring.
+
+Highlights:
+
+• Structured resume data extraction  
+• Skill match scoring & missing skill detection  
+• Embedding-based similarity comparison  
+• Mock mode for cost-efficient development  
+• Clean service-layer backend architecture  
+
+🧩 Tech: Python, FastAPI, OpenAI API, Embeddings, Docker  
 
 #### 🛒 [E-Commerce Backend API](https://github.com/JISNAJOY/ecommerce-mini-platform)
 > A professional **Flask-based E-Commerce backend** with clean architecture, JWT authentication, Docker integration, and unit tests.
