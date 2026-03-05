@@ -76,7 +76,7 @@ Includes a separate React frontend [Todo Frontend Application (React)](https://g
 
 ---
 
-#### 🤖 [LLM Resume Analyzer API](https://github.com/JISNAJOY/AI-Resume-Job-Intelligence-Platform)
+#### 🤖 [AI-Resume-Job-Intelligence-Platform](https://github.com/JISNAJOY/AI-Resume-Job-Intelligence-Platform)
 
 An AI-powered FastAPI backend that analyzes resumes against job descriptions using LLM-based skill extraction and semantic similarity scoring.
 
